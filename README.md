@@ -12,7 +12,8 @@ Hint: We have not observed the full lifetime of all users included here.
 2) Do all users behave the same way? How should that impact the way company thinks about LTV?
 3) Why is LTV an important metric for the business? How can we use it as a strategic metric for the Business?
 ```
-The purpose of sharing this assignment is to illustrate how to estimate customers' lifetime value (LTV) and evaluate the quality of this metric by analyzing customer behaviors among different segments.
+
+The purpose of sharing this assignment is to illustrate how to estimate customers' lifetime value (LTV) using Excel, and evaluate the quality of this metric by analyzing customer behaviors among different segments.
 
 As discussed in my solution, LTV is a very useful business metric, but it is also a very tricky measurement because it can be misleading when inappropriately estimated.
 
