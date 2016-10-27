@@ -7,5 +7,5 @@ The purpose of sharing this assignment is to illustrate how to estimate customer
 As discussed in my solution, LTV is a very useful business metric, but it is also a very tricky measurement because it can be misleading when inappropriately estimated.
 
 
-Here is a Quora answer that I found very helpful when doing this analysis:
-https://www.quora.com/How-do-you-calculate-the-LTV-in-a-subscription-SaaS-business
+Here is a Quora answer that I found very helpful explaining the concept of LTV and how to estimate LTV for SaaS customers:
+<p><a href="https://www.quora.com/How-do-you-calculate-the-LTV-in-a-subscription-SaaS-business">How do you calculate the LTV in a subscription SaaS business?</a></p>
