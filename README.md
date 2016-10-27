@@ -1,5 +1,5 @@
 # SaaS-Customer-Life-Value-Prediction
-----
+
 This is an Excel challenge for a Data Analyst position at a SaaS company. The company name has been removed for privacy protection.
 
 The purpose of sharing this assignment is to illustrate how to estimate customers' lifetime value (LTV) and evaluate the quality of this metric by analyzing customer behaviors among different segments.
